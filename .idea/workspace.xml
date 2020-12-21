@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c3ee49-0286-458e-84a4-f9ae9deef290" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/cloud.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lang.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/main_page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="96c3ee49-0286-458e-84a4-f9ae9deef290" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608498475333</updated>
       <workItem from="1608498476946" duration="4791000" />
-      <workItem from="1608534526977" duration="24409000" />
+      <workItem from="1608534526977" duration="24829000" />
     </task>
     <servers />
   </component>
