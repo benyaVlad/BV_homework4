@@ -30,6 +30,9 @@ body {
     margin-left: 20px;
     text-transform: uppercase;
 }
+.link_header_menu:hover {
+    font-weight: 700;
+}
 .lang_button {
     border: none;
     background: transparent;
